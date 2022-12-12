@@ -1,0 +1,15 @@
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/bin/Debug/net6.0/task2
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/bin/Debug/net6.0/task2.deps.json
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/bin/Debug/net6.0/task2.runtimeconfig.json
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/bin/Debug/net6.0/task2.dll
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/bin/Debug/net6.0/task2.pdb
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/obj/Debug/net6.0/task2.csproj.AssemblyReference.cache
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/obj/Debug/net6.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/obj/Debug/net6.0/task2.AssemblyInfoInputs.cache
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/obj/Debug/net6.0/task2.AssemblyInfo.cs
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/obj/Debug/net6.0/task2.csproj.CoreCompileInputs.cache
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/obj/Debug/net6.0/task2.dll
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/obj/Debug/net6.0/refint/task2.dll
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/obj/Debug/net6.0/task2.pdb
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/obj/Debug/net6.0/task2.genruntimeconfig.cache
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework Lesson1 C#/task2/obj/Debug/net6.0/ref/task2.dll
