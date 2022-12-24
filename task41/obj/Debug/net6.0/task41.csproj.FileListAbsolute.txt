@@ -1,0 +1,15 @@
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/bin/Debug/net6.0/task41
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/bin/Debug/net6.0/task41.deps.json
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/bin/Debug/net6.0/task41.runtimeconfig.json
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/bin/Debug/net6.0/task41.dll
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/bin/Debug/net6.0/task41.pdb
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/obj/Debug/net6.0/task41.csproj.AssemblyReference.cache
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/obj/Debug/net6.0/task41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/obj/Debug/net6.0/task41.AssemblyInfoInputs.cache
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/obj/Debug/net6.0/task41.AssemblyInfo.cs
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/obj/Debug/net6.0/task41.csproj.CoreCompileInputs.cache
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/obj/Debug/net6.0/task41.dll
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/obj/Debug/net6.0/refint/task41.dll
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/obj/Debug/net6.0/task41.pdb
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/obj/Debug/net6.0/task41.genruntimeconfig.cache
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/task41/obj/Debug/net6.0/ref/task41.dll
