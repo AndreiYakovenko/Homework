@@ -43,6 +43,6 @@ for (int j = 0; j < array.GetLength(1); j++)
         sum = sum + array[i, j];
     }
     average = sum / array.GetLength(0);
-    Console.WriteLine("Average in a column " + j + " there's " + average);
+    Console.WriteLine("Average in a column " + j + " there's " + Math.Round(average, 1));
 }
 Console.WriteLine();
