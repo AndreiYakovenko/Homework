@@ -7,6 +7,7 @@ Console.WriteLine("Please Enter a real number N:");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Please Enter a real number M:");
 int n = Convert.ToInt32(Console.ReadLine());
+if (m > n) (m, n) = (n, m);
 int sum = 0;
 int sumRealNumbers(int n, int m)
 {
