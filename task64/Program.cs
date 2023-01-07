@@ -12,6 +12,5 @@ int realNumbers(int n)
     Console.Write(n + " ");
     return realNumbers(n-1);
 }
-// Console.WriteLine();
 realNumbers(n);
 Console.WriteLine();
