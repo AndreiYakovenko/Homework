@@ -1,0 +1,15 @@
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/bin/Debug/net6.0/Verification work
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/bin/Debug/net6.0/Verification work.deps.json
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/bin/Debug/net6.0/Verification work.runtimeconfig.json
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/bin/Debug/net6.0/Verification work.dll
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/bin/Debug/net6.0/Verification work.pdb
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/obj/Debug/net6.0/Verification work.csproj.AssemblyReference.cache
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/obj/Debug/net6.0/Verification work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/obj/Debug/net6.0/Verification work.AssemblyInfoInputs.cache
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/obj/Debug/net6.0/Verification work.AssemblyInfo.cs
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/obj/Debug/net6.0/Verification work.csproj.CoreCompileInputs.cache
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/obj/Debug/net6.0/Verification work.dll
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/obj/Debug/net6.0/refint/Verification work.dll
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/obj/Debug/net6.0/Verification work.pdb
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/obj/Debug/net6.0/Verification work.genruntimeconfig.cache
+/Users/andrei.yakovenko/Desktop/ОБУЧЕНИЕ/Homework/Verification work/obj/Debug/net6.0/ref/Verification work.dll
