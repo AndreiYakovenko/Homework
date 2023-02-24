@@ -10,3 +10,7 @@ foreach (string str in originalArray)
 }
 
 string[] newArray = shorterStrings.ToArray();
+foreach (string str in newArray)
+{
+    Console.WriteLine(str);
+}
